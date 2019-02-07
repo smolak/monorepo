@@ -1,0 +1,23 @@
+{
+  "name": "@monorepo/package-2",
+  "version": "2.1.4",
+  "description": "> TODO: description",
+  "author": "Jacek Smolak <jacek.smolak@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/package-2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smolak/monorepo/packages/package-2.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
